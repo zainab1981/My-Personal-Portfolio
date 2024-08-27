@@ -162,7 +162,7 @@ img {
   
 }
 
-.nav__logo,
+.nav__log,
 .nav__toggle{
   color: var(--title-color);
   font-weight: var(--font-medium);
