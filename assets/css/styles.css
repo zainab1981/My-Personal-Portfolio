@@ -168,7 +168,7 @@ img {
   font-weight: var(--font-medium);
 }
 
-.nav__logo:hover{
+.nav__log:hover{
   color: var(--first-color);
 }
 
